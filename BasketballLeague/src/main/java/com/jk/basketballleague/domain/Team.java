@@ -11,7 +11,8 @@ public class Team {
     private int pointsScored;
     private int pointsLost;
     private boolean advanceToPlayOffs;
-    private String nameOfCaptain;
+    private Players capitan;
+    private League league;
     private List<Players> players;
 
 }
